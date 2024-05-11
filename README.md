@@ -41,6 +41,9 @@
 ![Laravel](https://img.shields.io/badge/Laravel-F9322C?style=flat-square&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next&logoColor=white)
+![Nest.js](https://img.shields.io/badge/Nest.js-red?style=flat-square&logo=nest&logoColor=white)
+![Jest.js](https://img.shields.io/badge/Jest.js-green?style=flat-square&logo=jest&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
 ![Alpine.js](https://img.shields.io/badge/Alpine.js-663399?style=flat-square&logo=alpine.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-593D88?style=flat-square&logo=vite&logoColor=white)
@@ -55,7 +58,7 @@
 ![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-purple?style=flat-square&logo=figma&logoColor=white)
-![PhotoShop](https://img.shields.io/badge/PhotoShop-blue?style=flat-square&logo=photoshop&logoColor=white)
+![PhotoShop](https://img.shields.io/badge/Photoshop-blue?style=flat-square&logo=photoshop&logoColor=white)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codermoniruzzamanr&show_icons=true&locale=en&layout=compact" alt="codermoniruzzamanr" /></p>
 
