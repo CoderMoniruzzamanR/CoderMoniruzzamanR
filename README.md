@@ -38,7 +38,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-F9322C?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-F9322C?style=flat-square&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
@@ -54,8 +54,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-purple?style=flat-square&logo=javascript&logoColor=white)
-![PhotoShop](https://img.shields.io/badge/PhotoShop-blue?style=flat-square&logo=javascript&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-purple?style=flat-square&logo=figma&logoColor=white)
+![PhotoShop](https://img.shields.io/badge/PhotoShop-blue?style=flat-square&logo=photoshop&logoColor=white)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codermoniruzzamanr&show_icons=true&locale=en&layout=compact" alt="codermoniruzzamanr" /></p>
 
