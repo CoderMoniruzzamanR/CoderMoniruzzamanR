@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Deep learning, Neural network, python**
 
-- 👨‍💻 All of my projects are available at [https://codermoniruzzamanr.github.io/moniruzzaman](https://codermoniruzzamanr.github.io/moniruzzaman)
+- 👨‍💻 All of my projects are available at [there](https://moniruzzaman.vercel.app/)
 
 - 💬 Ask me about **React, JavaScript's, Laravel, PHP, Next.js, typesScripts**
 
